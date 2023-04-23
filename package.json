@@ -1,0 +1,22 @@
+{
+  "name": "github-ai-review",
+  "version": "1.0.0",
+  "description": "基于chatGPT的code-review包",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listentime/github-AI-review.git"
+  },
+  "keywords": [
+    "code-review"
+  ],
+  "author": "Listen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/listentime/github-AI-review/issues"
+  },
+  "homepage": "https://github.com/listentime/github-AI-review#readme"
+}
